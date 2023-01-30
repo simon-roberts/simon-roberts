@@ -1,7 +1,7 @@
-- 👋 Hello world, I'm Simon!
-- 🎓 I'm currently a 4th-year student at The University of British Columbia, where I study Business and Computer Science
-- 👀 I’m interested in software engineering, machine learning, and human computer interaction. 
-- 🌱 I’m currently looking for exciting opportunities in product and consulting!
+- 👋 Hello world! I'm Simon Roberts (he/him)!
+- 👨‍🎓 Recently completed studying business and computer science at The University of British Columbia
+- 👀 I’m interested in software engineering, data science, and cloud computing.
+- 🌱 I’m joining Oliver Wyman as a consultant in Toronto later in 2023, in the meantime I'm looking to get involve in the NPO space
 - 📫 Feel free to reach out to simon.roberts(at)alumni.ubc.ca
 
 <!---
