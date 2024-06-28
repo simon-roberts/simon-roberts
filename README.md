@@ -1,7 +1,7 @@
-- 👋 Hello world! I'm Simon Roberts (he/him)!
-- 👨‍🎓 I'm a new graduate from the Business and Computer Science (BUCS) program at UBC
-- 👀 I’m interested in software engineering, data science, and cloud computing.
-- 🌱 I’m joining Oliver Wyman as a Consultant in Toronto in 2024
+- 👋 Hello world! My name is Simon
+- 👨‍🎓 I graduated from UBC with a Bachelor's in Business and Computer Science
+- 🌱 I work as an OSINT analyst for a research boutique
+- 👀 I’m interested in analytics, tech, and international development
 - 📫 Feel free to reach out to simonneilroberts[at]gmail.com
 
 <!---
